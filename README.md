@@ -11,5 +11,4 @@ It implements the **Page Object Model (POM)** and uses **Gherkin syntax** for wr
 - **Sample test cases using Gherkin**
 
 ## 📁 Project Structure
-web-ui-test-framework
-
+![web-ui-test-framework](Project_Structure.jpg)
